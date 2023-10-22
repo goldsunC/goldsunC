@@ -9,4 +9,3 @@
 - 🏃 Swimming
 - :cat: Love cat and dog and more
 - :sun_with_face: Love :sunny:
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=goldsunC&show_icons=true&count_private=true&theme=gotham">

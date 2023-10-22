@@ -9,4 +9,4 @@
 - :cat: Love cat and dog and more
 - :sun_with_face: Love :sunny:
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=goldsunC&show_icons=true&theme=radical)]()
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=goldsunC&show_icons=true&theme=radical" />

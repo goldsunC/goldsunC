@@ -10,5 +10,4 @@
 - :cat: Love cat and dog and more
 - :sun_with_face: Love :sunny:
 
-<img align = "right" src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=goldsunC&layout=compact&hide_border=true&langs_count=10&theme=radical">
 

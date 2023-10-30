@@ -10,4 +10,6 @@
 - :cat: Love cat and dog and more
 - :sun_with_face: Love :sunny:
 
-
+*"I aim to light, to power the entire planet. So, call it a dream. Fine.
+Sneer. Laugh it off as pure science fiction. But if it can be dreamed, it
+can be achieved. Because all science is fiction until it's fact!"*  *—《He who Remains》*

@@ -1,4 +1,4 @@
-### Hello, I'm Kangning Chang 👋:blush::blush:
+### Hello, I'm Kangning Chang 👋👋👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=goldsunC&show_icons=true&theme=radical" />
 
